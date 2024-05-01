@@ -1,10 +1,8 @@
 # เข้าสู่ระบบหน้าจัดการผู้ใช้ (บัญชีใหม่)
 - กรุณากรอกแบบฟอร์มด้านล่างและรอการตอบกลับด้วยลิ้งค์การเข้าถึง
-- <!-- modify this form HTML and place wherever you want your form -->
-<form
+- <!-- modify this form HTML and place wherever you want your form --><form
   action="https://formspree.io/f/meqyngvy"
-  method="POST"
->
+  method="POST">
   <label>
     อีเมล (ไม่จำเป็น):
     <input type="email" name="email">
@@ -25,4 +23,5 @@
   <button type="submit">ส่ง</button>
 </form>
 - และรอการตอบกลับภายในเร็วๆนี้
-- [วิธีกรอกดูที่นี่]( )
+- [วิธีกรอกดูที่นี่]()
+- [วิธีบันทึกวิดีโอดูที่นี่]()
