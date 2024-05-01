@@ -6,7 +6,7 @@
   method="POST"
 >
   <label>
-    อีเมล:
+    อีเมล (ไม่จำเป็น):
     <input type="email" name="email">
   </label>
   <label>
@@ -14,10 +14,15 @@
     <textarea name="message"></textarea>
   </label>
   <label>
-    เลขประจำตัวประชาชน/หนังสือเดินทาง:
+    เลขประจำตัวประชาชน/หนังสือเดินทาง (ไม่จำเป็น):
     <textarea name="message"></textarea>
+  </label>
+    <label>
+    หรือนำเข้าไฟล์หน้าที่ถูกต้อง (วิดีโอ):
+    <input type="file" name="upload">
   </label>
   <!-- your other form fields go here -->
   <button type="submit">ส่ง</button>
 </form>
 - และรอการตอบกลับภายในเร็วๆนี้
+- [วิธีกรอกดูที่นี่]( )
