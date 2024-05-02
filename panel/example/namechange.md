@@ -13,5 +13,5 @@
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">เปลี่ยนชื่อ</button>
 </form>
