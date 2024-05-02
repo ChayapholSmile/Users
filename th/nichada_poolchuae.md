@@ -3,6 +3,6 @@
 * รหัส: 00059
 # ข้อมูลการติดต่อ
 * [Facebook](https://www.facebook.com/nichada.poolchuae)
-# ยอดค้างชำระ 500 บาท กรุณาติดต่อชำระเงินได้ที่แผงควบคุม
+# ยอดค้างชำระ 1000 บาท กรุณาติดต่อชำระเงินได้ที่แผงควบคุม
 ---
 [เข้าสู่ระบบแผงควบคุม](https://chayapholsmile.github.io/Users/pages/login)
